@@ -1,0 +1,8 @@
+td {
+    word-break: break-all;
+}
+
+td img,
+.form-group img {
+    max-width: 32px;
+}
